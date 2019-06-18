@@ -1,0 +1,6 @@
+C:\Users\jarod\Documents\Conestoga\Level 2\PROG1815\JBClassLibrary\JBClassLibrary\bin\Debug\JBClassLibrary.dll
+C:\Users\jarod\Documents\Conestoga\Level 2\PROG1815\JBClassLibrary\JBClassLibrary\bin\Debug\JBClassLibrary.pdb
+C:\Users\jarod\Documents\Conestoga\Level 2\PROG1815\JBClassLibrary\JBClassLibrary\obj\Debug\JBClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\jarod\Documents\Conestoga\Level 2\PROG1815\JBClassLibrary\JBClassLibrary\obj\Debug\JBClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jarod\Documents\Conestoga\Level 2\PROG1815\JBClassLibrary\JBClassLibrary\obj\Debug\JBClassLibrary.dll
+C:\Users\jarod\Documents\Conestoga\Level 2\PROG1815\JBClassLibrary\JBClassLibrary\obj\Debug\JBClassLibrary.pdb
